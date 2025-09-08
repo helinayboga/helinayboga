@@ -1,16 +1,13 @@
 <h1 align="center">👋 Hi, I'm Helin Ayboğa</h1>
 
 <p align="center">
-  A <b>Business Analyst</b> & <b>.NET Web Developer</b> based in Istanbul.<br>
+  A <b>Business Analyst</b> & <b>.NET Web Developer</b> based in İzmir<br>
   Bridging product needs with clean, maintainable software. ✨
 </p>
 
 ---
 
-### 🚀 About Me
 
-I'm Helin Ayboğa — I work at the intersection of **business analysis** and **.NET web development**.  
-I turn requirements into clear user stories & acceptance criteria, design the flow with diagrams, and deliver working features on the web stack.
 
 💡 **Focus Areas**
 - **Business Analysis:** requirements elicitation, user stories, acceptance criteria, UAT planning, process mapping (BPMN)
@@ -55,18 +52,6 @@ My goal is to ship **useful, understandable, and testable** solutions while keep
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" title="SQL Server / T‑SQL"/>
 </p>
 
-#### Collaboration & DevOps
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50" title="GitLab"/>
-</p>
-
-#### (Sometimes) Game Dev Exploration
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" title="Unity (C#)"/>
-</p>
-
 ---
 
 ### 🧩 What I Do As a BA
@@ -81,10 +66,10 @@ My goal is to ship **useful, understandable, and testable** solutions while keep
 
 <!-- Replace with your actual email/LinkedIn -->
 <p align="center">
-  <a href="mailto:helin.ayboga@example.com">
-    <img src="https://img.shields.io/badge/Email-helin.ayboga%40example.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:helin.ayboga@gmail.com">
+    <img src="https://img.shields.io/badge/Email-helin.ayboga%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/helinayboga">
+  <a href="https://www.linkedin.com/in/helin-aybo%C4%9Fa-32b936209/">
     <img src="https://img.shields.io/badge/LinkedIn-Helin%20Ayboğa-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
